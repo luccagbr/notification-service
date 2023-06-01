@@ -22,7 +22,6 @@ export class AppController {
         content,
         category,
         recipientId,
-        // eslint-disable-next-line prettier/prettier
       }
     });
   }
